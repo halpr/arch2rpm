@@ -10,7 +10,7 @@ set -Eeuo pipefail
 shopt -s extglob nullglob
 
 readonly PROG=arch2rpm
-readonly VERSION=0.1
+readonly VERSION=0.1b
 
 # ----------------------------------------------------------------- messages
 if [[ -t 2 ]]; then
