@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#
+# AUTHOR : Filipe Soares
 # arch2rpm - convertion de paquets Arch Linux package (.pkg.tar.*) vers Fedora RPM.
 #(RETIRER COMMENTAIRES ET PENSE-BETES AVANT DEPLOYEMENT)
 # Portage de paquets Arch vers des distord RPM
